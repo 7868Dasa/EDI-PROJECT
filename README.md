@@ -1,0 +1,2 @@
+# EDI-PROJECT
+HOW TO Build EDI
