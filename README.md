@@ -1,2 +1,3 @@
 # EDI-PROJECT
-HOW TO Build EDI
+HOW TO Generate purchase order message EDIFACT message
+
